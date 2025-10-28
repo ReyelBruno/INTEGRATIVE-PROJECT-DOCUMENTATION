@@ -5,7 +5,7 @@
 
 ## Getting Started
 1. The user will need to open the Play Store (Android) or Apple Store (iOS).
-2. Go to the search bar, search for the FemeSafe app.
+2. Go to the search bar, search for the FemSafe app.
 3. Click install.
 4. After installing, the user will need to register, using their Google or Facebook account.
 5. After this step, the user will need to save their emergency contacts, with whom they can share their real-time location through a generated link.
